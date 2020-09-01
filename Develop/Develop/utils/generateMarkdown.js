@@ -1,5 +1,5 @@
 // function to generate markdown for README
-function generateMarkdown(data) {
+function generateMarkdown(data, repoInfo) {
   return `# ${data.title}
 
 `;
