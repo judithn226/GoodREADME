@@ -7,6 +7,7 @@ function generateMarkdown(data, repoInfo) {
   ## Badge
   ${data.badge}
   ## Table Of Contents
+  ${data.contents}
  
   ## Installation
   ${data.install}
