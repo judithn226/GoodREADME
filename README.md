@@ -1,3 +1,3 @@
 # GoodREADME
 
-![Display of working application](./develop/index.gif)
+![Display of working application](./index.gif)
