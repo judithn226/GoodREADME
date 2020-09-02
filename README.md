@@ -53,3 +53,5 @@ THEN I am taken to the corresponding section of the README
 ![Display of working application](./index.gif)
 
 [https://youtu.be/rIAfiMTo1vc] (Link to Video)
+
+deployed link :https://judithn226.github.io/GoodREADME/
